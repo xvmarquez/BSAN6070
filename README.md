@@ -1,4 +1,4 @@
-# BSAN6070
+# CA01_Xiomara_Vish
 
 # House Pricing Exploratory Data Analysis
 This repository contains a Jupyter Notebook for the Exploratory Data Analysis (EDA) of a comprehensive dataset on house pricing. The dataset includes various features related to house characteristics and sale details, providing a rich ground for analysis and insights into factors affecting house prices.
